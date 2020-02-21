@@ -12,6 +12,6 @@ jobs:
     - name: Run a one-line script
       run: echo Hello, world!
     - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
+      run: echo Do you know about all the rights of yours according to your country's laws ?
+        echo Shall we try and see how well informed you are ?
         echo test, and deploy your project.
